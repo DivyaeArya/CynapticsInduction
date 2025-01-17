@@ -1,5 +1,5 @@
 # Cynaptics Induction Task
-Approach File: 
+Approach File: https://docs.google.com/document/d/1S2W5byoNUbTzPIB9qZ3mP0vm8Rw6Erb1M-wzf_rhYjc/edit?usp=sharing
 ## AI vs Real
 ## GAN
 ### Main GAN
