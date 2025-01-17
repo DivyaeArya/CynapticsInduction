@@ -27,7 +27,7 @@ transform = transforms.Compose([
     transforms.Normalize([0.5], [0.5], [0.5])
 ])
 
-dataset = datasets.ImageFolder(root='/root/.cache/kagglehub/datasets/splcher/animefacedataset/versions/3', transform=transform)
+dataset = datasets.ImageFolder(root='path/to/data', transform=transform)  #Dataset here
 dataloader = DataLoader(dataset, batch_size=batch_size, shuffle=True, num_workers=2)
 
 def show(tensor, ch=3, size=(64, 64), num=25):
